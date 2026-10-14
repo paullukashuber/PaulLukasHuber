@@ -6,7 +6,7 @@
 
 <br>
 
-I'm <!--AGE_START-->24<!--AGE_END--> years old, based in Hannover, Germany.  
+I'm <!--AGE_START-->25<!--AGE_END--> years old, based in Hannover, Germany.  
 I hold a **B.Sc. in Business Informatics** with a focus on System Integration.
 
 By day I work as a **Test System Engineer**, spending most of my time in the Citrix ecosystem — designing, deploying, and validating virtual workspace environments. I'm not a full-time developer, but when I have an idea worth building, this is where it ends up.
